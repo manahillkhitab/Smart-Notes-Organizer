@@ -16,8 +16,8 @@ This is a C++ project developed as part of my Data Structures and Algorithms cou
 
 Files:
 - Backend
-- - Frontend
-`README.md` - Project overview
+- Frontend
+- Project overview
 
 ---
 💡 Author:
